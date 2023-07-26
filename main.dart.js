@@ -55596,13 +55596,15 @@ A.aC9.prototype={
 $0(){var s,r,q=this,p="removeWhere",o=q.a,n=o.e
 n===$&&A.a()
 s=q.b
-if(n[s].a.a.length===0){n=o.p2
-r=q.c
-if(!!n.fixed$length)A.l(A.a6(p))
-B.b.eb(n,new A.aC5(r,s),!0)
-n=o.p3
-if(!!n.fixed$length)A.l(A.a6(p))
-B.b.eb(n,new A.aBY(r,s),!0)}o.tl(o.ok)
+if(n[s].a.a.length===0){n=q.c
+r=J.a5(n)
+r.h(n,s).r=r.h(n,s).w
+r=o.p2
+if(!!r.fixed$length)A.l(A.a6(p))
+B.b.eb(r,new A.aC5(n,s),!0)
+r=o.p3
+if(!!r.fixed$length)A.l(A.a6(p))
+B.b.eb(r,new A.aBY(n,s),!0)}o.tl(o.ok)
 n=q.d
 n.a=o.kG()
 n.aq()
