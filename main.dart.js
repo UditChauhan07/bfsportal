@@ -62596,20 +62596,19 @@ case 2:q.D(new p.aNi(q,b))
 q.Ql()
 return A.G(null,r)}})
 return A.H($async$hv,r)},
-Ql(){var s=this,r="iframeElement1",q=s.f,p=q.style
-p.border="none"
-p=q.style
-p.height="100%"
-p=q.style
-p.overflow="hidden"
-p=q.style
-p.width="101%"
-q.id="iframe"
-p=s.r
-if(p==="00530000005AdvsAAC"||p==="0051O00000CvAVTQA3")q.src="https://dev.beautyfashionsales.com/auth/Lc1ytvHbphfZJXu4j7yr92raHplS96gGF/index"
+Ql(){var s="iframeElement1",r=this.f,q=r.style
+q.border="none"
+q=r.style
+q.height="100%"
+q=r.style
+q.overflow="hidden"
+q=r.style
+q.width="101%"
+r.id="iframe"
+r.src="https://dev.beautyfashionsales.com/auth/Lc1ytvHbphfZJXu4j7yr92raHplS96gGF/index"
 $.b35()
-$.DY().a7Z(r,new A.aNh(s),!0)
-s.e=A.b5r(new A.oc(),r)},
+$.DY().a7Z(s,new A.aNh(this),!0)
+this.e=A.b5r(new A.oc(),s)},
 ak(){this.au()
 this.hv()},
 L(a){var s,r=null,q=t.w,p=A.k(a,r,q).w.a.a*0.9,o=p<0?Math.ceil(p):Math.floor(p)
@@ -65901,9 +65900,9 @@ A.aaD.prototype={
 L(a){var s=null
 return A.e(s,new A.vU(new A.aW_(this,A.k(a,s,t.w).w.a,a),s),B.c,A.N(3,255,255,255),s,s,s,s,s,s,s,s,s,s)}}
 A.aW_.prototype={
-$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4="No Data Found",b5="assets/icons/read-icon.png",b6="Sales Report",b7=b2.a,b8=b7.d,b9=b8.ax
-if(b9.gm(b9))return A.e(b3,A.ae(new A.ii(50,B.t,b3),b3,b3),B.c,b3,b3,b3,b3,b2.b.b,b3,b3,b3,b3,b3,b3)
-else{s=b8.ay
+$0(){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,c,b,a,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4="No Data Found",b5="assets/icons/read-icon.png",b6=b2.a,b7=b6.d,b8=b7.ax
+if(b8.gm(b8))return A.e(b3,A.ae(new A.ii(50,B.t,b3),b3,b3),B.c,b3,b3,b3,b3,b2.b.b,b3,b3,b3,b3,b3,b3)
+else{s=b7.ay
 s===$&&A.a()
 A.b1(s.c.length)
 s=b2.c
@@ -65918,30 +65917,30 @@ l=t.p
 k=A.K(A.b([A.i(b3,b3,n),A.e(b3,A.p(A.b([A.u("Your Accounts",b3,b3,b3,b3,b3,b3,b3,A.x(B.E,B.di,B.u,B.kg,35,B.w,A.b([B.o2],m)),b3,b3,b3)],l),B.l,B.i,B.d),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)],l),B.j,B.i,B.d)
 j=t.V
 i=A.b([new A.bM(5,B.Q,A.N(8,0,0,0),B.m,10)],j)
-h=b8.go
-i=A.e(b3,A.dJ(b3,b3,B.E,B.E,B.E,A.cE(h.gm(h)?B.a7Z:B.a8_,b3,b3,b3),b3,B.dM,new A.aVN(b7),b3,B.E,b3,b3,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,b3,i,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)
+h=b7.go
+i=A.e(b3,A.dJ(b3,b3,B.E,B.E,B.E,A.cE(h.gm(h)?B.a7Z:B.a8_,b3,b3,b3),b3,B.dM,new A.aVN(b6),b3,B.E,b3,b3,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,b3,i,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)
 if(A.k(s,b3,r).w.a.a<985)h=o*0.15
 else{A.at(s)
 h=o*0.1}g=A.k(s,b3,r).w.a.b*0.04
 g=g<0?Math.ceil(g):Math.floor(g)
 f=A.b([new A.bM(5,B.Q,A.N(8,0,0,0),B.m,10)],j)
-e=b8.k2
-d=b8.k3
+e=b7.k2
+d=b7.k3
 c=A.a4(d).i("a6<1,cD<m>>")
-h=A.e(b3,A.eW(B.tV,B.k,0,B.a4Y,B.au,24,!0,!0,A.ad(new A.a6(d,new A.aVO(),c),!0,c.i("aC.E")),new A.aVP(b7),B.aw,b3,e,t.N),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,f,b3,B.n),b3,g,b3,b3,b3,b3,b3,h)
+h=A.e(b3,A.eW(B.tV,B.k,0,B.a4Y,B.au,24,!0,!0,A.ad(new A.a6(d,new A.aVO(),c),!0,c.i("aC.E")),new A.aVP(b6),B.aw,b3,e,t.N),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,f,b3,B.n),b3,g,b3,b3,b3,b3,b3,h)
 if(A.k(s,b3,r).w.a.a<985)g=o*0.15
 else{A.at(s)
 g=o*0.1}f=A.k(s,b3,r).w.a.b*0.04
 f=f<0?Math.ceil(f):Math.floor(f)
 e=A.b([new A.bM(5,B.Q,A.N(8,0,0,0),B.m,10)],j)
-g=A.e(b3,A.cZ(b3,b3,B.PI,b3,b3,b3,1,!1,b8.gA_(),B.C,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,e,b3,B.n),b3,f,b3,b3,b3,b3,b3,g)
+g=A.e(b3,A.cZ(b3,b3,B.PI,b3,b3,b3,1,!1,b7.gA_(),B.C,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,e,b3,B.n),b3,f,b3,b3,b3,b3,b3,g)
 p=p.b
 f=A.b([new A.bM(5,B.Q,A.N(8,0,0,0),B.m,10)],j)
-f=A.e(b3,A.K(A.b([k,A.K(A.b([B.a4B,B.eq,i,B.eq,h,B.eq,g,B.eq,A.e(b3,A.as(!1,b3,!0,B.q_,b3,!0,b3,b3,b3,B.E,b3,b3,b3,b3,b3,new A.aVS(b7),b3,b3,b3,b3,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,f,b3,B.n),b3,p*0.04,b3,b3,b3,b3,b3,o*0.05),A.i(b3,b3,n)],l),B.j,B.i,B.d)],l),B.j,B.x,B.d),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)
-if(J.h(b9.gm(b9),!0))b7=A.e(b3,A.ae(new A.ii(50,B.t,b3),b3,b3),B.c,b3,b3,b3,b3,p,b3,b3,b3,b3,b3,b3)
-else{if(A.k(s,b3,r).w.a.a<985)b9=o*0.9
+f=A.e(b3,A.K(A.b([k,A.K(A.b([B.a4B,B.eq,i,B.eq,h,B.eq,g,B.eq,A.e(b3,A.as(!1,b3,!0,B.q_,b3,!0,b3,b3,b3,B.E,b3,b3,b3,b3,b3,new A.aVS(b6),b3,b3,b3,b3,b3),B.c,b3,b3,new A.a_(B.k,b3,b3,B.eE,f,b3,B.n),b3,p*0.04,b3,b3,b3,b3,b3,o*0.05),A.i(b3,b3,n)],l),B.j,B.i,B.d)],l),B.j,B.x,B.d),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)
+if(J.h(b8.gm(b8),!0))b6=A.e(b3,A.ae(new A.ii(50,B.t,b3),b3,b3),B.c,b3,b3,b3,b3,p,b3,b3,b3,b3,b3,b3)
+else{if(A.k(s,b3,r).w.a.a<985)b8=o*0.9
 else{A.at(s)
-b9=o*0.9}k=b8.dx
+b8=o*0.9}k=b7.dx
 if(!k.gU(k)){if(A.k(s,b3,r).w.a.a<985)i=o*0.9
 else{A.at(s)
 i=o*0.9}if(A.k(s,b3,r).w.a.a<985)h=p*0.55
@@ -65961,8 +65960,8 @@ if(b0!=null)b0.a3(0,a4)
 b0=k.ee$
 b0===$&&A.a()
 b0=J.f(J.d(J.d(J.d(b0,0),a5),"Name"))
-b1=b7.f&&b7.x===a5?B.k:B.u
-a[a5]=A.e(b3,new A.nA(new A.A2(new A.aVT(b7,a5),b3,new A.aVU(b7),B.dM,A.jO(b3,A.e(b3,A.K(A.b([a9,A.e(b3,new A.c8(B.v,b3,b3,new A.ax(b0,b3,A.x(b1,b3,b3,b3,A.k(s,b3,r).w.a.a>=985&&A.k(s,b3,r).w.a.a<=1400?16:18,B.w,b3),b3,B.K,b3,b3,b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,B.ic,b3,c,b3,b3,b3,b3,b3,a3)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,new A.cO(a8,a8,a8,a8),b3,b3,B.n),b3,d,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVV(b7,a5),b3,b3,b3,b3,b3,b3),b3),b3),B.c,b3,b3,new A.a_(b3,b3,b3,new A.cO(a6,a6,a6,a6),a7,b3,B.n),b3,d,b3,b3,b3,b3,b3,b3)}r=A.b7j(a,50,e,20)}i=A.e(b3,A.rZ(r,b7.z,!0,!0),B.c,b3,b3,new A.a_(b3,b3,b3,g,b3,b3,B.n),b3,h,b3,b3,b3,b3,b3,i)
+b1=b6.f&&b6.x===a5?B.k:B.u
+a[a5]=A.e(b3,new A.nA(new A.A2(new A.aVT(b6,a5),b3,new A.aVU(b6),B.dM,A.jO(b3,A.e(b3,A.K(A.b([a9,A.e(b3,new A.c8(B.v,b3,b3,new A.ax(b0,b3,A.x(b1,b3,b3,b3,A.k(s,b3,r).w.a.a>=985&&A.k(s,b3,r).w.a.a<=1400?16:18,B.w,b3),b3,B.K,b3,b3,b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,B.ic,b3,c,b3,b3,b3,b3,b3,a3)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,new A.cO(a8,a8,a8,a8),b3,b3,B.n),b3,d,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVV(b6,a5),b3,b3,b3,b3,b3,b3),b3),b3),B.c,b3,b3,new A.a_(b3,b3,b3,new A.cO(a6,a6,a6,a6),a7,b3,B.n),b3,d,b3,b3,b3,b3,b3,b3)}r=A.b7j(a,50,e,20)}i=A.e(b3,A.rZ(r,b6.z,!0,!0),B.c,b3,b3,new A.a_(b3,b3,b3,g,b3,b3,B.n),b3,h,b3,b3,b3,b3,b3,i)
 h=A.i(b3,p*0.025,b3)
 m=A.u("Reports",b3,b3,b3,b3,b3,b3,b3,A.x(B.E,B.di,B.u,B.kg,35,B.w,A.b([B.o2],m)),b3,b3,b3)
 g=p*0.035
@@ -65979,21 +65978,21 @@ a4=o*0.008
 p*=0.05
 a6=A.e(b3,A.e(b3,A.e(b3,A.p3(b5,b3,b3),B.c,b3,b3,b3,b3,p,b3,b3,b3,b3,b3,n),B.c,b3,b3,B.dq,b3,c,b3,new A.y(0,a3,0,a3),new A.y(a4,0,a4,0),b3,b3,a2),B.c,b3,b3,B.dq,b3,a1,b3,b3,b3,b3,b3,n)
 a7=o*0.17
-a8=b7.r?B.k:B.u
-k=A.e(b3,A.jf(A.as(!1,b3,!0,A.p(A.b([A.e(b3,new A.nA(A.jO(b3,A.e(b3,A.K(A.b([a6,A.e(b3,A.ae(A.u(b6,b3,b3,b3,b3,b3,b3,b3,A.x(a8,b3,b3,b3,A.at(s)?16:18,B.w,b3),B.K,b3,b3),b3,b3),B.c,b3,b3,B.ic,b3,a1,b3,b3,b3,b3,b3,a7)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,a0,b3,b3,B.n),b3,c,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVW(),b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,d)],l),B.j,B.y,B.d),b3,!0,b3,b3,b3,b3,B.dM,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3),B.b8,new A.aVX(b7),new A.aVY(b7),b3),B.c,b3,b3,new A.a_(b3,b3,b3,k,e,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)
+a8=b6.r?B.k:B.u
+k=A.e(b3,A.jf(A.as(!1,b3,!0,A.p(A.b([A.e(b3,new A.nA(A.jO(b3,A.e(b3,A.K(A.b([a6,A.e(b3,A.ae(A.u("Sales Report",b3,b3,b3,b3,b3,b3,b3,A.x(a8,b3,b3,b3,A.at(s)?16:18,B.w,b3),B.K,b3,b3),b3,b3),B.c,b3,b3,B.ic,b3,a1,b3,b3,b3,b3,b3,a7)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,a0,b3,b3,B.n),b3,c,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVW(),b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,d)],l),B.j,B.y,B.d),b3,!0,b3,b3,b3,b3,B.dM,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3),B.b8,new A.aVX(b6),new A.aVY(b6),b3),B.c,b3,b3,new A.a_(b3,b3,b3,k,e,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)
 o=A.i(b3,b3,o*0.01)
-b8=b8.fx
-if(J.h(b8.gm(b8),"00530000005AdvsAAC")||J.h(b8.gm(b8),"0051O00000CvAVTQA3")){b8=A.C(12)
+b7=b7.fx
+if(J.h(b7.gm(b7),"00530000005AdvsAAC")||J.h(b7.gm(b7),"0051O00000CvAVTQA3")){b7=A.C(12)
 j=A.b([new A.bM(5,B.Q,A.N(8,0,0,0),B.m,10)],j)
 e=A.C(12)
 n=A.e(b3,A.e(b3,A.e(b3,A.p3(b5,b3,b3),B.c,b3,b3,b3,b3,p,b3,b3,b3,b3,b3,n),B.c,b3,b3,B.dq,b3,c,b3,new A.y(0,a3,0,a3),new A.y(a4,0,a4,0),b3,b3,a2),B.c,b3,b3,B.dq,b3,a1,b3,b3,b3,b3,b3,n)
-p=b7.w?B.k:B.u
-b7=A.e(b3,A.jf(A.as(!1,b3,!0,A.p(A.b([A.e(b3,new A.nA(A.jO(b3,A.e(b3,A.K(A.b([n,A.e(b3,A.ae(A.u(b6,b3,b3,b3,b3,b3,b3,b3,A.x(p,b3,b3,b3,A.at(s)?16:18,B.w,b3),B.K,b3,b3),b3,b3),B.c,b3,b3,B.ic,b3,a1,b3,b3,b3,b3,b3,a7)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,e,b3,b3,B.n),b3,c,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVZ(),b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,d)],l),B.j,B.y,B.d),b3,!0,b3,b3,b3,b3,B.dM,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3),B.b8,new A.aVQ(b7),new A.aVR(b7),b3),B.c,b3,b3,new A.a_(b3,b3,b3,b8,j,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)}else b7=A.u("",b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)
-g=A.p(A.b([i,h,m,r,A.K(A.b([k,o,b7],l),B.j,B.y,B.d),A.i(b3,g,b3)],l),B.j,B.i,B.d)
-b7=g}else{b7=b8.fr
-J.h(b7.gm(b7),"")
-b7=A.e(b3,A.ae(A.u(b4,b3,b3,b3,b3,b3,b3,b3,A.x(b3,b3,b3,b3,18,B.w,b3),b3,b3,b3),b3,b3),B.c,b3,b3,b3,b3,p*0.7,b3,b3,b3,b3,b3,b3)}b9=A.e(b3,b7,B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b9)
-b7=b9}return A.p(A.b([q,f,b7],l),B.j,B.i,B.d)}},
+p=b6.w?B.k:B.u
+b6=A.e(b3,A.jf(A.as(!1,b3,!0,A.p(A.b([A.e(b3,new A.nA(A.jO(b3,A.e(b3,A.K(A.b([n,A.e(b3,A.ae(A.u("Comparison Report",b3,b3,b3,b3,b3,b3,b3,A.x(p,b3,b3,b3,A.at(s)?16:18,B.w,b3),B.K,b3,b3),b3,b3),B.c,b3,b3,B.ic,b3,a1,b3,b3,b3,b3,b3,a7)],l),B.j,B.i,B.d),B.c,b3,b3,new A.a_(b3,b3,b3,e,b3,b3,B.n),b3,c,b3,b3,b3,b3,b3,b3),B.X,!1,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,new A.aVZ(),b3,b3,b3,b3,b3,b3),b3),B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,d)],l),B.j,B.y,B.d),b3,!0,b3,b3,b3,b3,B.dM,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3),B.b8,new A.aVQ(b6),new A.aVR(b6),b3),B.c,b3,b3,new A.a_(b3,b3,b3,b7,j,b3,B.n),b3,b3,b3,b3,b3,b3,b3,b3)}else b6=A.u("",b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3)
+g=A.p(A.b([i,h,m,r,A.K(A.b([k,o,b6],l),B.j,B.y,B.d),A.i(b3,g,b3)],l),B.j,B.i,B.d)
+b6=g}else{b6=b7.fr
+J.h(b6.gm(b6),"")
+b6=A.e(b3,A.ae(A.u(b4,b3,b3,b3,b3,b3,b3,b3,A.x(b3,b3,b3,b3,18,B.w,b3),b3,b3,b3),b3,b3),B.c,b3,b3,b3,b3,p*0.7,b3,b3,b3,b3,b3,b3)}b8=A.e(b3,b6,B.c,b3,b3,b3,b3,b3,b3,b3,b3,b3,b3,b8)
+b6=b8}return A.p(A.b([q,f,b6],l),B.j,B.i,B.d)}},
 $S:222}
 A.aVN.prototype={
 $0(){this.a.d.abg()},
