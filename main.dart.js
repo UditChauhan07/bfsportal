@@ -63476,17 +63476,26 @@ k.left="0"
 s=p.c
 s.toString
 r=t.w
-if(A.j(s,o,r).w.a.a<1600)s="101%"
+if(A.j(s,o,r).w.a.a>1600)s="101.1%"
 else{s=p.c
 s.toString
-if(A.j(s,o,r).w.a.a>1600){s=p.c
+if(A.j(s,o,r).w.a.a<1600){s=p.c
 s.toString
-s=A.j(s,o,r).w.a.a<1400}else s=!1
-if(!s){s=p.c
+s=A.j(s,o,r).w.a.a>1500}else s=!1
+if(s)s="101.2%"
+else{s=p.c
+s.toString
+if(A.j(s,o,r).w.a.a<1500){s=p.c
+s.toString
+s=A.j(s,o,r).w.a.a>1400}else s=!1
+if(s)s="101.5%"
+else{s=p.c
 s.toString
 if(A.j(s,o,r).w.a.a<1400){s=p.c
 s.toString
-A.j(s,o,r).toString}}s="101.5%"}k.width=s
+r=A.j(s,o,r).w.a.a>1200
+s=r}else s=!1
+s=s?"101.5%":"102%"}}}k.width=s
 k.overflow=n
 k.height="102.5%"
 k.border="none"
@@ -63559,17 +63568,26 @@ l.left="0"
 s=q.c
 s.toString
 r=t.w
-if(A.j(s,p,r).w.a.a<1600)s="101%"
+if(A.j(s,p,r).w.a.a>1600)s="101.1%"
 else{s=q.c
 s.toString
-if(A.j(s,p,r).w.a.a>1600){s=q.c
+if(A.j(s,p,r).w.a.a<1600){s=q.c
 s.toString
-s=A.j(s,p,r).w.a.a<1400}else s=!1
-if(!s){s=q.c
+s=A.j(s,p,r).w.a.a>1500}else s=!1
+if(s)s="101.2%"
+else{s=q.c
+s.toString
+if(A.j(s,p,r).w.a.a<1500){s=q.c
+s.toString
+s=A.j(s,p,r).w.a.a>1400}else s=!1
+if(s)s="101.5%"
+else{s=q.c
 s.toString
 if(A.j(s,p,r).w.a.a<1400){s=q.c
 s.toString
-A.j(s,p,r).toString}}s="101.5%"}l.width=s
+r=A.j(s,p,r).w.a.a>1200
+s=r}else s=!1
+s=s?"101.5%":"102%"}}}l.width=s
 l.overflow=o
 l.height="102.5%"
 l.border="none"
@@ -63667,17 +63685,26 @@ l.left="0"
 s=q.c
 s.toString
 r=t.w
-if(A.j(s,p,r).w.a.a<1600)s="101%"
+if(A.j(s,p,r).w.a.a>1600)s="101.1%"
 else{s=q.c
 s.toString
-if(A.j(s,p,r).w.a.a>1600){s=q.c
+if(A.j(s,p,r).w.a.a<1600){s=q.c
 s.toString
-s=A.j(s,p,r).w.a.a<1400}else s=!1
-if(!s){s=q.c
+s=A.j(s,p,r).w.a.a>1500}else s=!1
+if(s)s="101.2%"
+else{s=q.c
+s.toString
+if(A.j(s,p,r).w.a.a<1500){s=q.c
+s.toString
+s=A.j(s,p,r).w.a.a>1400}else s=!1
+if(s)s="101.5%"
+else{s=q.c
 s.toString
 if(A.j(s,p,r).w.a.a<1400){s=q.c
 s.toString
-A.j(s,p,r).toString}}s="101.5%"}l.width=s
+r=A.j(s,p,r).w.a.a>1200
+s=r}else s=!1
+s=s?"101.5%":"102%"}}}l.width=s
 l.overflow=o
 l.height="102.5%"
 l.border="none"
